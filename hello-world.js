@@ -1,8 +1,8 @@
 // hello-world js
 // 
 var whoToGreet = "Suwanee";
-var howManyTime = 10;
-for (var i = 0; i <= 10; i++) {
+var howManyTime = 25;
+for (var i = 0; i <= howManyTime; i++) {
 
     if ( i%2 != 0){
 
